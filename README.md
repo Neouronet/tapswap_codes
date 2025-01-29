@@ -8,7 +8,8 @@ The JSON file is designed to help users quickly access and utilize various codes
 
 ## Usage
 
-To use the codes in the JSON file, simply download the file and integrate it into your automation scripts. You are free to copy, and distribute the contents as you see fit. ##https://raw.githubusercontent.com/Neouronet/tapswap_codes/refs/heads/main/list.json
+To use the codes in the JSON file, simply download the file and integrate it into your automation scripts. You are free to copy, and distribute the contents as you see fit.
+##https://raw.githubusercontent.com/Neouronet/tapswap_codes/refs/heads/main/list.json
 
 ## Disclaimer
 
